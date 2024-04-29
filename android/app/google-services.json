@@ -9,6 +9,25 @@
       "client_info": {
         "mobilesdk_app_id": "1:699147444489:android:bd74305f1fd020faeb73d8",
         "android_client_info": {
+          "package_name": "com.example.autism_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9deAwQwstP28ipvYCKSgpjxFtH4Ky04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699147444489:android:5e8721db923ff51aeb73d8",
+        "android_client_info": {
           "package_name": "com.example.autism_application"
         }
       },
