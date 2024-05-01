@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "699147444489",
+    "project_id": "autism-app-80266",
+    "storage_bucket": "autism-app-80266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699147444489:android:bd74305f1fd020faeb73d8",
+        "android_client_info": {
+          "package_name": "com.example.autism_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699147444489-boj3trau9r943nhe9dme49q5ni8mk8i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9deAwQwstP28ipvYCKSgpjxFtH4Ky04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699147444489-boj3trau9r943nhe9dme49q5ni8mk8i1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699147444489-1lp35us5c9d3v8pdd1bh5504q04n4l1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.autismApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699147444489:android:5e8721db923ff51aeb73d8",
+        "android_client_info": {
+          "package_name": "com.example.autism_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699147444489-boj3trau9r943nhe9dme49q5ni8mk8i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9deAwQwstP28ipvYCKSgpjxFtH4Ky04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699147444489-boj3trau9r943nhe9dme49q5ni8mk8i1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699147444489-1lp35us5c9d3v8pdd1bh5504q04n4l1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.autismApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
