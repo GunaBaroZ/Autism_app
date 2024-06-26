@@ -40,6 +40,7 @@ dependencies:
   google_sign_in: ^6.1.6
   cloud_firestore: ^4.13.1
   the_apple_sign_in: ^1.1.1
+  fl_chart: ^0.68.0
 
 dev_dependencies:
   flutter_test:
